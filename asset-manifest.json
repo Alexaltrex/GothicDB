@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/GothicDB/static/css/main.df92b28b.css",
-    "main.js": "/GothicDB/static/js/main.ba9cdcb5.js",
+    "main.css": "/GothicDB/static/css/main.ef53cc99.css",
+    "main.js": "/GothicDB/static/js/main.de99e13c.js",
     "static/js/787.00169f99.chunk.js": "/GothicDB/static/js/787.00169f99.chunk.js",
-    "static/media/bgr_inner.jpg": "/GothicDB/static/media/bgr_inner.333611b1dd28b1ee48fd.jpg",
-    "static/media/locations.jpg": "/GothicDB/static/media/locations.89c12d045a83e59799e9.jpg",
-    "static/media/characters.jpg": "/GothicDB/static/media/characters.33cc3ef410a123277338.jpg",
-    "static/media/guilds.jpg": "/GothicDB/static/media/guilds.2abbdfe42c1f7fdc1400.jpg",
-    "static/media/races.jpg": "/GothicDB/static/media/races.e6dd4f233b9a6fc35edc.jpg",
     "static/media/religions.jpg": "/GothicDB/static/media/religions.9b4a40d149751c436527.jpg",
+    "static/media/races.jpg": "/GothicDB/static/media/races.e6dd4f233b9a6fc35edc.jpg",
+    "static/media/locations.jpg": "/GothicDB/static/media/locations.89c12d045a83e59799e9.jpg",
+    "static/media/home.jpg": "/GothicDB/static/media/home.333611b1dd28b1ee48fd.jpg",
+    "static/media/guilds.jpg": "/GothicDB/static/media/guilds.2abbdfe42c1f7fdc1400.jpg",
+    "static/media/characters.jpg": "/GothicDB/static/media/characters.33cc3ef410a123277338.jpg",
     "index.html": "/GothicDB/index.html",
-    "main.df92b28b.css.map": "/GothicDB/static/css/main.df92b28b.css.map",
-    "main.ba9cdcb5.js.map": "/GothicDB/static/js/main.ba9cdcb5.js.map",
+    "main.ef53cc99.css.map": "/GothicDB/static/css/main.ef53cc99.css.map",
+    "main.de99e13c.js.map": "/GothicDB/static/js/main.de99e13c.js.map",
     "787.00169f99.chunk.js.map": "/GothicDB/static/js/787.00169f99.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df92b28b.css",
-    "static/js/main.ba9cdcb5.js"
+    "static/css/main.ef53cc99.css",
+    "static/js/main.de99e13c.js"
   ]
 }
