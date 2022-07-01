@@ -6,5 +6,5 @@
 
 # Description
 FullStack project. 
-* Frontend - React, React Query, Redux Toolkit. Caching data in all Create-Read-Update-Delete fetching on server api, invalidate cache on mutation, prefetch on button hover, autofetch new list item when page scroll to end  
+* Frontend - React, React Query, Redux Toolkit.   
 * Backend: node.js, express.
